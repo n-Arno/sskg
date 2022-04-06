@@ -1,0 +1,10 @@
+sites:
+- name: siteA
+  public_ip: 1.2.3.4
+  private_subnet: 192.168.0.0/24
+- name: siteB
+  public_ip: 4.3.2.1
+  private_subnet: 192.168.1.0/24
+- name: siteC
+  public_ip: 9.8.7.6
+  private_subnet: 192.168.2.0/24
